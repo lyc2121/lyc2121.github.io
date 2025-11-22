@@ -43,8 +43,8 @@ I am currently a **Postdoctoral Researcher** specializing in **transporation kno
 **Y Ling**,Z Ma, ect. (2025), *Under Review*   
 
 ### A review of knowledge graph construction using large language models in transportation: problems, methods, and challenges
-**Y Ling**,Z Ma, etc. (2025), *Under Review*  
-
+**Y Ling**,Z Ma, etc. (2025), *Transportation Research Part C: Emerging Technologies*  
+[📄 Paper]https://www.sciencedirect.com/science/article/pii/S0968090X25004322)
 
 ### A deep learning approach for robust traffic accident information extraction from online chinese news
 **Y Ling**, Z Ma, X Dong, X Weng. (2024), *IET Intelligent Transport Systems*  
